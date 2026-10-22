@@ -1,91 +1,65 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:17253D&height=5&section=header" width="100%" alt="" />
+<img src="assets/hero.svg" alt="ALI ALABNAIDI — Cybersecurity Student and Software Developer" width="100%" />
 
-# ALI ALABNAIDI
-
-**CYBERSECURITY STUDENT · SOFTWARE DEVELOPER**
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3200&pause=900&color=7BA7E8&center=true&vCenter=true&width=460&lines=Building+secure+applications;Exploring+networks+and+systems;Learning%2C+building%2C+improving" alt="Typing introduction" />
-
-<br />
-
-![Cybersecurity](https://img.shields.io/badge/FOCUS-CYBERSECURITY-17253D?style=flat-square&labelColor=0B1220&color=28466B)
-![Development](https://img.shields.io/badge/BUILD-SOFTWARE-17253D?style=flat-square&labelColor=0B1220&color=28466B)
-![Status](https://img.shields.io/badge/STATUS-LEARNING-17253D?style=flat-square&labelColor=0B1220&color=28466B)
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=19&duration=3300&pause=1100&color=66B7FF&center=true&vCenter=true&width=520&lines=BUILDING+SECURE+APPLICATIONS;EXPLORING+NETWORKS+AND+SYSTEMS;ALWAYS+LEARNING+AND+IMPROVING" alt="Animated introduction" />
 
 </div>
 
-## About Me
+## 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
 
-I'm a cybersecurity student and developer who enjoys understanding how systems work, how applications are built, and how to make them more secure. My interests include **network security**, **ethical hacking**, **web development**, **databases**, and **desktop applications**.
+**I'M A CYBERSECURITY STUDENT AND SOFTWARE DEVELOPER** WHO ENJOYS UNDERSTANDING HOW SYSTEMS WORK, HOW APPLICATIONS ARE BUILT, AND HOW TO MAKE THEM MORE SECURE. MY INTERESTS INCLUDE **NETWORK SECURITY, ETHICAL HACKING, WEB DEVELOPMENT, DATABASES, AND DESKTOP APPLICATIONS.**
 
-- **Currently exploring:** Web security, networking, and practical security labs.
-- **Currently building:** Database-driven websites and desktop applications.
-- **Learning approach:** Hands-on projects, experimentation, and continuous improvement.
-- **Open to:** Collaboration on development and cybersecurity learning projects.
+<div align="center"><img src="assets/about.svg" alt="Exploring web security, building applications, learning through projects, open to collaboration" width="100%" /></div>
 
-## Tech Arsenal
+## 𝐓𝐄𝐂𝐇 𝐀𝐑𝐒𝐄𝐍𝐀𝐋
 
-<table>
-<tr><td width="25%"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,php&theme=dark" alt="Programming languages" /></td></tr>
-<tr><td><b>Web & Design</b></td><td><img src="https://skillicons.dev/icons?i=html,css,git,github&theme=dark" alt="Web and development tools" /></td></tr>
-<tr><td><b>Data & Cloud</b></td><td><img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,gcp&theme=dark" alt="Databases and cloud" /></td></tr>
-<tr><td><b>Systems & Security</b></td><td><img src="https://skillicons.dev/icons?i=linux,bash,docker,vscode&theme=dark" alt="Systems and security tools" /></td></tr>
-</table>
+<div align="center"><img src="assets/tech-arsenal.svg" alt="Categorized programming, web, database, cloud, security, and development tools" width="100%" /></div>
 
-<sub>Technologies I have explored or am learning; proficiency varies.</sub>
+<sub>TOOLS AND TECHNOLOGIES I HAVE USED OR AM LEARNING — EXPERIENCE LEVELS VARY.</sub>
 
-## Featured Projects
+## 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐃 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>IT SANAFeER PLATFORM</h3>
-<p>An IT-focused platform and a place to explore practical web development.</p>
-<a href="https://aliabnaidi.github.io/it/"><b>Explore platform ↗</b></a>
-</td>
-<td width="50%" valign="top">
-<h3>More Projects</h3>
-<p>Explore my repositories for programming experiments, web projects, and ongoing learning.</p>
-<a href="https://github.com/aliabnaidi?tab=repositories"><b>View repositories ↗</b></a>
-</td>
-</tr>
-</table>
+<table><tr><td width="50%" valign="top">
 
-## GitHub Analytics
+### 🛡️ IT SANAFEER PLATFORM
+
+AN IT-FOCUSED PLATFORM FOR EXPLORING WEB DEVELOPMENT AND PRACTICAL TECHNOLOGY PROJECTS.
+
+[**EXPLORE THE PLATFORM ↗**](https://aliabnaidi.github.io/it/)
+
+</td><td width="50%" valign="top">
+
+### 💻 MY GITHUB REPOSITORIES
+
+A COLLECTION OF SOFTWARE DEVELOPMENT, EXPERIMENTS, AND LEARNING PROJECTS.
+
+[**VIEW REPOSITORIES ↗**](https://github.com/aliabnaidi?tab=repositories)
+
+</td></tr></table>
+
+## 𝐆𝐈𝐓𝐇𝐔𝐁 𝐀𝐍𝐀𝐋𝐘𝐓𝐈𝐂𝐒
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aliabnaidi&show_icons=true&hide_border=true&bg_color=0B1220&title_color=93B9F3&text_color=D5DEED&icon_color=78A5E5&rank_icon=github" alt="GitHub statistics" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliabnaidi&layout=compact&hide_border=true&bg_color=0B1220&title_color=93B9F3&text_color=D5DEED&langs_count=6" alt="Most used repository languages" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=aliabnaidi&show_icons=true&hide_border=true&bg_color=0B1424&title_color=65B7FF&text_color=DEEAF9&icon_color=65B7FF" alt="GitHub stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliabnaidi&layout=compact&hide_border=true&bg_color=0B1424&title_color=65B7FF&text_color=DEEAF9&langs_count=7" alt="Repository languages" height="170" />
 <br />
-<img src="https://streak-stats.demolab.com?user=aliabnaidi&hide_border=true&background=0B1220&ring=78A5E5&fire=78A5E5&currStreakLabel=93B9F3&sideLabels=D5DEED&dates=8D9CB2&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=aliabnaidi&hide_border=true&background=0B1424&ring=65B7FF&fire=65B7FF&currStreakLabel=65B7FF&sideLabels=DEEAF9&dates=8D9CB2&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
 </div>
 
-<details>
-<summary><b>Contribution activity</b></summary>
-<br />
-<div align="center">
-<img src="https://raw.githubusercontent.com/aliabnaidi/aliabnaidi/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution grid snake (generated by GitHub Actions)" />
-</div>
-</details>
+<details><summary><b>CONTRIBUTION ACTIVITY</b></summary><br /><div align="center"><img src="https://raw.githubusercontent.com/aliabnaidi/aliabnaidi/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" /></div></details>
 
-## Certifications & Learning
+## 𝐂𝐄𝐑𝐓𝐈𝐅𝐈𝐂𝐀𝐓𝐈𝐎𝐍𝐒 & 𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆
 
-> **Continuous learning in cybersecurity, networking, and software development.**  
-> Verified certifications can be added here with their official credential links.
+CONTINUOUSLY LEARNING ABOUT CYBERSECURITY, NETWORKING, AND SOFTWARE DEVELOPMENT. VERIFIED CREDENTIALS CAN BE ADDED HERE.
 
-## Connect With Me
+## 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 𝐖𝐈𝐓𝐇 𝐌𝐄
 
 <div align="center">
-<a href="https://github.com/aliabnaidi"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://aliabnaidi.github.io/it/"><img src="https://img.shields.io/badge/IT_Platform-17253D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="IT Platform" /></a>
+<a href="https://github.com/aliabnaidi"><img src="https://img.shields.io/badge/GITHUB-0B1424?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://aliabnaidi.github.io/it/"><img src="https://img.shields.io/badge/IT_PLATFORM-14365D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="IT platform" /></a>
 </div>
 
 ---
 
-<div align="center">
-<sub>SECURE · BUILD · EXPLORE</sub>
-<br />
-<sub>Crafted with curiosity and a commitment to learning.</sub>
-</div>
+<div align="center"><b>SECURE · BUILD · EXPLORE</b><br /><sub>DESIGNED WITH CURIOSITY · BUILT FOR CONTINUOUS LEARNING</sub></div>
