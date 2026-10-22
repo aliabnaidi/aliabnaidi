@@ -1,49 +1,109 @@
-<!-- CYBER ROYAL PROFILE | GitHub-safe Markdown + local SVG assets -->
-<div align="center">
+<!-- TEXT-ONLY GITHUB PROFILE: NO IMAGES, SVG, BADGES, OR REMOTE GRAPHICS -->
 
-<img src="assets/hero.svg" width="100%" alt="ALI ALABNAIDI | CYBERSECURITY STUDENT AND SOFTWARE DEVELOPER" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=23&duration=3200&pause=1200&color=70C9FF&center=true&vCenter=true&width=850&height=52&lines=BUILDING+SECURE+APPLICATIONS;EXPLORING+NETWORKS+AND+SYSTEMS;DEVELOPING+PRACTICAL+SOLUTIONS;ALWAYS+LEARNING+AND+IMPROVING" alt="Animated introduction" />
-
-</div>
-
-<div align="center"><img src="assets/about.svg" width="100%" alt="ABOUT ME — CYBERSECURITY, DEVELOPMENT, AND LEARNING" /></div>
-
-<div align="center"><img src="assets/tech-arsenal.svg" width="100%" alt="TECH ARSENAL — LANGUAGES, WEB, DATABASES, SECURITY, TOOLS" /></div>
-
-<p align="center"><sub>TOOLS AND TECHNOLOGIES I USE OR AM EXPLORING. EXPERIENCE LEVELS VARY. ITEMS MARKED * ARE EXPLORATORY AND SHOULD BE VERIFIED BEFORE PUBLICATION.</sub></p>
-
-<div align="center"><img src="assets/projects.svg" width="100%" alt="FEATURED PROJECTS" /></div>
+---
 
 <div align="center">
 
-<a href="https://aliabnaidi.github.io/it/"><img src="https://img.shields.io/badge/EXPLORE_IT_SANAFEER_PLATFORM-09203C?style=for-the-badge&logo=googlechrome&logoColor=72CFFF" alt="IT SANAFEER PLATFORM" /></a>
-<a href="https://github.com/aliabnaidi?tab=repositories"><img src="https://img.shields.io/badge/VIEW_MY_REPOSITORIES-09203C?style=for-the-badge&logo=github&logoColor=72CFFF" alt="GITHUB REPOSITORIES" /></a>
+𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐘 𝐃𝐈𝐆𝐈𝐓𝐀𝐋 𝐒𝐏𝐀𝐂𝐄
+
+# 𝐀𝐋𝐈 𝐀𝐋𝐀𝐁𝐍𝐀𝐈𝐃𝐈
+
+### 𝐂𝐘𝐁𝐄𝐑𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 𝐒𝐓𝐔𝐃𝐄𝐍𝐓 · 𝐒𝐎𝐅𝐓𝐖𝐀𝐑𝐄 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
+
+`B U I L D  /  S E C U R E  /  E X P L O R E  /  L E A R N`
+
+𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘  ·  𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓  ·  𝐍𝐄𝐓𝐖𝐎𝐑𝐊𝐈𝐍𝐆
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
 
-## 𝐆𝐈𝐓𝐇𝐔𝐁 𝐀𝐍𝐀𝐋𝐘𝐓𝐈𝐂𝐒
+---
+
+## 01 · 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
+
+𝐈 𝐀𝐌 𝐀 𝐂𝐘𝐁𝐄𝐑𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 𝐒𝐓𝐔𝐃𝐄𝐍𝐓 𝐀𝐍𝐃 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 𝐖𝐇𝐎 𝐄𝐍𝐉𝐎𝐘𝐒 𝐔𝐍𝐃𝐄𝐑𝐒𝐓𝐀𝐍𝐃𝐈𝐍𝐆 𝐇𝐎𝐖 𝐒𝐘𝐒𝐓𝐄𝐌𝐒 𝐖𝐎𝐑𝐊, 𝐇𝐎𝐖 𝐀𝐏𝐏𝐋𝐈𝐂𝐀𝐓𝐈𝐎𝐍𝐒 𝐀𝐑𝐄 𝐁𝐔𝐈𝐋𝐓, 𝐀𝐍𝐃 𝐇𝐎𝐖 𝐓𝐎 𝐌𝐀𝐊𝐄 𝐓𝐇𝐄𝐌 𝐌𝐎𝐑𝐄 𝐒𝐄𝐂𝐔𝐑𝐄. 𝐌𝐘 𝐈𝐍𝐓𝐄𝐑𝐄𝐒𝐓𝐒 𝐈𝐍𝐂𝐋𝐔𝐃𝐄 𝐍𝐄𝐓𝐖𝐎𝐑𝐊 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘, 𝐄𝐓𝐇𝐈𝐂𝐀𝐋 𝐇𝐀𝐂𝐊𝐈𝐍𝐆, 𝐖𝐄𝐁 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓, 𝐃𝐀𝐓𝐀𝐁𝐀𝐒𝐄𝐒, 𝐀𝐍𝐃 𝐃𝐄𝐒𝐊𝐓𝐎𝐏 𝐀𝐏𝐏𝐋𝐈𝐂𝐀𝐓𝐈𝐎𝐍𝐒.
+
+| 𝐂𝐔𝐑𝐑𝐄𝐍𝐓 𝐅𝐎𝐂𝐔𝐒 | 𝐖𝐇𝐀𝐓 𝐈 𝐃𝐎 |
+|:---|:---|
+| **𝐄𝐗𝐏𝐋𝐎𝐑𝐈𝐍𝐆** | 𝐖𝐄𝐁 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘, 𝐍𝐄𝐓𝐖𝐎𝐑𝐊𝐈𝐍𝐆, 𝐀𝐍𝐃 𝐏𝐑𝐀𝐂𝐓𝐈𝐂𝐀𝐋 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 𝐋𝐀𝐁𝐒 |
+| **𝐁𝐔𝐈𝐋𝐃𝐈𝐍𝐆** | 𝐃𝐀𝐓𝐀𝐁𝐀𝐒𝐄-𝐃𝐑𝐈𝐕𝐄𝐍 𝐖𝐄𝐁𝐒𝐈𝐓𝐄𝐒 𝐀𝐍𝐃 𝐃𝐄𝐒𝐊𝐓𝐎𝐏 𝐀𝐏𝐏𝐋𝐈𝐂𝐀𝐓𝐈𝐎𝐍𝐒 |
+| **𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆** | 𝐇𝐀𝐍𝐃𝐒-𝐎𝐍 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒, 𝐄𝐗𝐏𝐄𝐑𝐈𝐌𝐄𝐍𝐓𝐀𝐓𝐈𝐎𝐍, 𝐀𝐍𝐃 𝐂𝐎𝐍𝐓𝐈𝐍𝐔𝐎𝐔𝐒 𝐈𝐌𝐏𝐑𝐎𝐕𝐄𝐌𝐄𝐍𝐓 |
+| **𝐂𝐎𝐋𝐋𝐀𝐁𝐎𝐑𝐀𝐓𝐈𝐍𝐆** | 𝐎𝐏𝐄𝐍 𝐓𝐎 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓 𝐀𝐍𝐃 𝐂𝐘𝐁𝐄𝐑𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒 |
+
+---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aliabnaidi&show_icons=true&hide_border=true&bg_color=07162C&title_color=73CBFF&text_color=DFEEFF&icon_color=73CBFF" alt="GITHUB STATISTICS" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliabnaidi&layout=compact&hide_border=true&bg_color=07162C&title_color=73CBFF&text_color=DFEEFF&langs_count=8" alt="MOST USED REPOSITORY LANGUAGES" height="180" />
-<img src="https://streak-stats.demolab.com?user=aliabnaidi&hide_border=true&background=07162C&ring=73CBFF&fire=73CBFF&currStreakLabel=73CBFF&sideLabels=DFEEFF&dates=9DB9D7&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="CONTRIBUTION STREAK" width="70%" />
+
+> 𝐓𝐔𝐑𝐍𝐈𝐍𝐆 𝐈𝐃𝐄𝐀𝐒 𝐈𝐍𝐓𝐎 𝐏𝐑𝐀𝐂𝐓𝐈𝐂𝐀𝐋, 𝐒𝐄𝐂𝐔𝐑𝐄 𝐒𝐎𝐋𝐔𝐓𝐈𝐎𝐍𝐒.
+
+`[ SYSTEM : ONLINE ]`  ·  `[ MODE : ALWAYS LEARNING ]`
+
 </div>
 
-## 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐀𝐂𝐓𝐈𝐕𝐈𝐓𝐘
+---
 
-<div align="center"><img src="https://raw.githubusercontent.com/aliabnaidi/aliabnaidi/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GITHUB CONTRIBUTION SNAKE — AVAILABLE AFTER WORKFLOW RUNS" /></div>
+## 02 · 𝐓𝐄𝐂𝐇 𝐀𝐑𝐒𝐄𝐍𝐀𝐋
 
-## 𝐂𝐄𝐑𝐓𝐈𝐅𝐈𝐂𝐀𝐓𝐈𝐎𝐍𝐒 & 𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆
+𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐈𝐄𝐒 𝐈 𝐖𝐎𝐑𝐊 𝐖𝐈𝐓𝐇 𝐎𝐑 𝐒𝐓𝐔𝐃𝐘. 𝐅𝐀𝐌𝐈𝐋𝐈𝐀𝐑𝐈𝐓𝐘 𝐕𝐀𝐑𝐈𝐄𝐒 𝐁𝐘 𝐓𝐎𝐎𝐋.
 
-> **CYBERSECURITY • NETWORKING • SOFTWARE DEVELOPMENT**  
-> CONTINUOUSLY LEARNING THROUGH PRACTICAL LABS AND PROJECTS. VERIFIED CERTIFICATIONS CAN BE ADDED WHEN AVAILABLE.
+| 𝐂𝐀𝐓𝐄𝐆𝐎𝐑𝐘 | 𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐈𝐄𝐒 |
+|:---|:---|
+| **𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐈𝐍𝐆 𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒** | `C` · `C++` · `C#` · `JAVA` · `PYTHON` · `JAVASCRIPT` · `TYPESCRIPT` · `PHP` |
+| **𝐖𝐄𝐁 & 𝐃𝐄𝐒𝐈𝐆𝐍** | `HTML5` · `CSS3` · `GIT` · `GITHUB` |
+| **𝐃𝐀𝐓𝐀𝐁𝐀𝐒𝐄𝐒 & 𝐂𝐋𝐎𝐔𝐃** | `MYSQL` · `MONGODB` · `MICROSOFT SQL SERVER` · `AWS` · `GOOGLE CLOUD` |
+| **𝐒𝐘𝐒𝐓𝐄𝐌𝐒 & 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘** | `LINUX` · `NETWORKING` · `WEB SECURITY` · `ETHICAL HACKING` |
+| **𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓 𝐓𝐎𝐎𝐋𝐒** | `VS CODE` · `DESKTOP DEVELOPMENT` · `DATABASE DESIGN` |
 
-## 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 𝐖𝐈𝐓𝐇 𝐌𝐄
+<sub>𝐓𝐇𝐄 𝐋𝐈𝐒𝐓 𝐑𝐄𝐅𝐋𝐄𝐂𝐓𝐒 𝐈𝐍𝐓𝐄𝐑𝐄𝐒𝐓𝐒 𝐀𝐍𝐃 𝐄𝐗𝐏𝐎𝐒𝐔𝐑𝐄, 𝐍𝐎𝐓 𝐂𝐄𝐑𝐓𝐈𝐅𝐈𝐂𝐀𝐓𝐈𝐎𝐍𝐒 𝐎𝐑 𝐄𝐗𝐏𝐄𝐑𝐓-𝐋𝐄𝐕𝐄𝐋 𝐏𝐑𝐎𝐅𝐈𝐂𝐈𝐄𝐍𝐂𝐘.</sub>
+
+---
+
+## 03 · 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐃 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒
+
+| 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 | 𝐎𝐕𝐄𝐑𝐕𝐈𝐄𝐖 | 𝐄𝐗𝐏𝐋𝐎𝐑𝐄 |
+|:---|:---|:---:|
+| **𝐈𝐓 𝐒𝐀𝐍𝐀𝐅𝐄𝐄𝐑 𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌** | 𝐀𝐍 𝐈𝐓-𝐅𝐎𝐂𝐔𝐒𝐄𝐃 𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌 𝐈 𝐃𝐄𝐕𝐄𝐋𝐎𝐏 𝐀𝐍𝐃 𝐌𝐀𝐍𝐀𝐆𝐄. | [**𝐕𝐈𝐒𝐈𝐓 𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌**](https://aliabnaidi.github.io/it/) |
+| **𝐌𝐘 𝐆𝐈𝐓𝐇𝐔𝐁 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒** | 𝐀 𝐂𝐎𝐋𝐋𝐄𝐂𝐓𝐈𝐎𝐍 𝐎𝐅 𝐌𝐘 𝐒𝐎𝐅𝐓𝐖𝐀𝐑𝐄 𝐀𝐍𝐃 𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒. | [**𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐈𝐄𝐒**](https://github.com/aliabnaidi?tab=repositories) |
+
+---
+
+## 04 · 𝐆𝐈𝐓𝐇𝐔𝐁 𝐀𝐂𝐓𝐈𝐕𝐈𝐓𝐘
+
+𝐄𝐗𝐏𝐋𝐎𝐑𝐄 𝐌𝐘 𝐑𝐄𝐀𝐋-𝐓𝐈𝐌𝐄 𝐏𝐔𝐁𝐋𝐈𝐂 𝐖𝐎𝐑𝐊 𝐃𝐈𝐑𝐄𝐂𝐓𝐋𝐘 𝐎𝐍 𝐆𝐈𝐓𝐇𝐔𝐁, 𝐖𝐈𝐓𝐇𝐎𝐔𝐓 𝐄𝐗𝐓𝐄𝐑𝐍𝐀𝐋 𝐒𝐓𝐀𝐓𝐈𝐒𝐓𝐈𝐂 𝐈𝐌𝐀𝐆𝐄𝐒 𝐎𝐑 𝐔𝐍𝐑𝐄𝐋𝐈𝐀𝐁𝐋𝐄 𝐂𝐎𝐔𝐍𝐓𝐄𝐑𝐒.
+
+| 𝐀𝐂𝐓𝐈𝐕𝐈𝐓𝐘 | 𝐃𝐈𝐑𝐄𝐂𝐓 𝐋𝐈𝐍𝐊 |
+|:---|:---|
+| **𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐈𝐄𝐒** | [**𝐁𝐑𝐎𝐖𝐒𝐄 𝐂𝐎𝐃𝐄**](https://github.com/aliabnaidi?tab=repositories) |
+| **𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍𝐒** | [**𝐕𝐈𝐄𝐖 𝐀𝐂𝐓𝐈𝐕𝐈𝐓𝐘**](https://github.com/aliabnaidi?tab=overview) |
+| **𝐒𝐓𝐀𝐑𝐒** | [**𝐒𝐓𝐀𝐑𝐑𝐄𝐃 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒**](https://github.com/aliabnaidi?tab=stars) |
+
+---
+
+## 05 · 𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆 𝐉𝐎𝐔𝐑𝐍𝐄𝐘
+
+| 𝐓𝐑𝐀𝐂𝐊 | 𝐃𝐈𝐑𝐄𝐂𝐓𝐈𝐎𝐍 |
+|:---|:---|
+| **𝐂𝐘𝐁𝐄𝐑𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘** | 𝐍𝐄𝐓𝐖𝐎𝐑𝐊 𝐃𝐄𝐅𝐄𝐍𝐒𝐄, 𝐄𝐓𝐇𝐈𝐂𝐀𝐋 𝐇𝐀𝐂𝐊𝐈𝐍𝐆, 𝐀𝐍𝐃 𝐒𝐄𝐂𝐔𝐑𝐄 𝐒𝐘𝐒𝐓𝐄𝐌𝐒 |
+| **𝐒𝐎𝐅𝐓𝐖𝐀𝐑𝐄 𝐄𝐍𝐆𝐈𝐍𝐄𝐄𝐑𝐈𝐍𝐆** | 𝐏𝐑𝐀𝐂𝐓𝐈𝐂𝐀𝐋 𝐀𝐏𝐏𝐋𝐈𝐂𝐀𝐓𝐈𝐎𝐍𝐒 𝐀𝐍𝐃 𝐏𝐑𝐎𝐁𝐋𝐄𝐌 𝐒𝐎𝐋𝐕𝐈𝐍𝐆 |
+| **𝐃𝐀𝐓𝐀𝐁𝐀𝐒𝐄𝐒** | 𝐃𝐄𝐒𝐈𝐆𝐍𝐈𝐍𝐆, 𝐎𝐑𝐆𝐀𝐍𝐈𝐙𝐈𝐍𝐆, 𝐀𝐍𝐃 𝐌𝐀𝐍𝐀𝐆𝐈𝐍𝐆 𝐃𝐀𝐓𝐀 |
+
+𝐂𝐄𝐑𝐓𝐈𝐅𝐈𝐂𝐀𝐓𝐈𝐎𝐍𝐒 𝐀𝐍𝐃 𝐕𝐄𝐑𝐈𝐅𝐈𝐄𝐃 𝐀𝐂𝐇𝐈𝐄𝐕𝐄𝐌𝐄𝐍𝐓𝐒 𝐂𝐀𝐍 𝐁𝐄 𝐀𝐃𝐃𝐄𝐃 𝐇𝐄𝐑𝐄 𝐀𝐒 𝐓𝐇𝐄𝐘 𝐀𝐑𝐄 𝐂𝐎𝐌𝐏𝐋𝐄𝐓𝐄𝐃.
+
+---
+
+## 06 · 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 𝐖𝐈𝐓𝐇 𝐌𝐄
 
 <div align="center">
-<a href="https://github.com/aliabnaidi"><img src="https://img.shields.io/badge/GITHUB-0B1D36?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB" /></a>
-<a href="https://aliabnaidi.github.io/it/"><img src="https://img.shields.io/badge/IT_PLATFORM-0B1D36?style=for-the-badge&logo=googlechrome&logoColor=white" alt="IT PLATFORM" /></a>
-</div>
 
-<div align="center"><img src="assets/footer.svg" width="100%" alt="SECURE BUILD EXPLORE" /></div>
+[**𝐆𝐈𝐓𝐇𝐔𝐁**](https://github.com/aliabnaidi) &nbsp; · &nbsp; [**𝐈𝐓 𝐒𝐀𝐍𝐀𝐅𝐄𝐄𝐑 𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌**](https://aliabnaidi.github.io/it/)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 𝐒𝐄𝐂𝐔𝐑𝐄 · 𝐁𝐔𝐈𝐋𝐃 · 𝐄𝐗𝐏𝐋𝐎𝐑𝐄
+
+𝐂𝐔𝐑𝐈𝐎𝐒𝐈𝐓𝐘 𝐃𝐑𝐈𝐕𝐄𝐒 𝐃𝐈𝐒𝐂𝐎𝐕𝐄𝐑𝐘. 𝐏𝐑𝐀𝐂𝐓𝐈𝐂𝐄 𝐁𝐔𝐈𝐋𝐃𝐒 𝐒𝐊𝐈𝐋𝐋. 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 𝐈𝐒 𝐀 𝐌𝐈𝐍𝐃𝐒𝐄𝐓.
+
+`© ALI ALABNAIDI`
+
+</div>
